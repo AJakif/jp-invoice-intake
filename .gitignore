@@ -5,3 +5,5 @@ __pycache__/
 reports/*.json
 review/pending/*.json
 review/archive/*.json
+invoices/*
+!invoices/.gitkeep
